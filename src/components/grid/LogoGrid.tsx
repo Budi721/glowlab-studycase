@@ -20,7 +20,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Gentle Bright Serum.png' height={100} width={100}/>
+                <img src='/gbserum.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Gentle Bright Serum</Text>
               </Box>
             </Center>
@@ -31,7 +31,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Gentle Glow Essence.png' height={100} width={100}/>
+                <img src='/ggessence.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Gentle Glow Essence</Text>
               </Box>
             </Center>
@@ -41,7 +41,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Glo-C Serum.png' height={100} width={100}/>
+                <img src='/glocserum.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Glo-C Serum</Text>
               </Box>
             </Center>
@@ -51,7 +51,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Peptide Moist Jar.png' height={100} width={100}/>
+                <img src='/pmoistjar.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Peptide Moist Jar</Text>
               </Box>
             </Center>
@@ -61,7 +61,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Physical Sunscreen.png' height={100} width={100}/>
+                <img src='/sunscreen.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Physical Sunscreen</Text>
               </Box>
             </Center>
@@ -71,7 +71,7 @@ export const LogoGrid = () => {
               _hover={{ cursor: 'pointer', bg: mode('gray.100', 'gray.700') }}
               py="8" px="8" bg={mode('gray.50', 'gray.800')} rounded={{ md: 'lg' }}>
               <Box>
-                <img src='product/Probiome Acne Serum.png' height={100} width={100}/>
+                <img src='/acneserum.png' height={100} width={100}/>
                 <Text mt={4} fontSize='12px' color='brand.900'>Probiome Acne Serum</Text>
               </Box>
             </Center>
