@@ -51,7 +51,6 @@ export const Template: React.FC<PropsWithChildren> = (props) => {
         <Stack spacing={5}>
           <Flex>{children.find((child) => child.type === Brand)?.props.children}</Flex>
           <Stack>{children.find((child) => child.type === Links)?.props.children}</Stack>
-          <Stack>{children.find((child) => child.type === NavInput)?.props.children}</Stack>
           <Divider/>
           <Flex>{children.find((child) => child.type === NavInput)?.props.children}</Flex>
         </Stack>
